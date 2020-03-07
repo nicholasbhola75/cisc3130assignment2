@@ -1,0 +1,413 @@
+null null null
+null "Track Name" null
+Artist "Track Name" null
+Artist "Track Name" URL
+null null null
+null Vibe null
+"Cookiee Kawaii" Vibe null
+"Cookiee Kawaii" Vibe https://open.spotify.com/track/7btQ8AOjr6zXoGHEmxL5u5
+null null null
+null "death bed (feat. beabadoobee)" null
+Powfu "death bed (feat. beabadoobee)" null
+Powfu "death bed (feat. beabadoobee)" https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx
+null null null
+null "Moral of the Story" null
+Ashe "Moral of the Story" null
+Ashe "Moral of the Story" https://open.spotify.com/track/2nC3QhMI9reBIOWutbU3Tj
+null null null
+null Skechers null
+DripReport Skechers null
+DripReport Skechers https://open.spotify.com/track/4z2JaAVPemYJhFKm7e32RA
+null null null
+null "4 Da Trap" null
+645AR "4 Da Trap" null
+645AR "4 Da Trap" https://open.spotify.com/track/5sF13EvLGv5qHFiMuGnMTF
+null null null
+null "WHATS POPPIN" null
+"Jack Harlow" "WHATS POPPIN" null
+"Jack Harlow" "WHATS POPPIN" https://open.spotify.com/track/3Q6F8RByyhRTJpRtZLY3cg
+null null null
+null "Walked In" null
+Ultradiox "Walked In" null
+Ultradiox "Walked In" https://open.spotify.com/track/1tRlGMHsf21FDo6pja27YN
+null null null
+null "Stuck Up" null
+"Music With Edgar" "Stuck Up" null
+"Music With Edgar" "Stuck Up" https://open.spotify.com/track/582UuerUL1zx7IyudPW9Mo
+null null null
+null "My Truck" null
+Breland "My Truck" null
+Breland "My Truck" https://open.spotify.com/track/1mpD5ioZ9479I6CuKxn3K9
+null null null
+null "My Heart Went Oops" null
+Tiagz "My Heart Went Oops" null
+Tiagz "My Heart Went Oops" https://open.spotify.com/track/3Nhfs2Cx7z2JWHetYkzSfO
+null null null
+null "She Gon Go" null
+"Trill Ryan" "She Gon Go" null
+"Trill Ryan" "She Gon Go" https://open.spotify.com/track/7FknBUKLWwjWszRK1N0jqe
+null null null
+null Supalonely null
+BENEE Supalonely null
+BENEE Supalonely https://open.spotify.com/track/4nK5YrxbMGZstTLbvj6Gxw
+null null null
+null "Blueberry Faygo" null
+"Lil Mosey" "Blueberry Faygo" null
+"Lil Mosey" "Blueberry Faygo" https://open.spotify.com/track/22LAwLoDA5b4AaGSkg6bKW
+null null null
+null "Intentions (feat. Quavo)" null
+"Justin Bieber" "Intentions (feat. Quavo)" null
+"Justin Bieber" "Intentions (feat. Quavo)" https://open.spotify.com/track/4umIPjkehX1r7uhmGvXiSV
+null null null
+null "Sunday Best" null
+Surfaces "Sunday Best" null
+Surfaces "Sunday Best" https://open.spotify.com/track/1Cv1YLb4q0RzL6pybtaMLo
+null null null
+null Trust null
+"Brent Faiyaz" Trust null
+"Brent Faiyaz" Trust https://open.spotify.com/track/0oufSLnKQDoBFX5mgkDCgR
+null null null
+null "Say So" null
+"Doja Cat" "Say So" null
+"Doja Cat" "Say So" https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ
+null null null
+null "CITY OF ANGELS" null
+24kGoldn "CITY OF ANGELS" null
+24kGoldn "CITY OF ANGELS" https://open.spotify.com/track/6ap9lSRJ0iLriGLqoJ44cq
+null null null
+null GENOCIDE null
+"Lil Darkie" GENOCIDE null
+"Lil Darkie" GENOCIDE https://open.spotify.com/track/68Y3zzmt2XxzheQVGbbJt4
+null null null
+null "3 Vets" null
+"The Future Kingz" "3 Vets" null
+"The Future Kingz" "3 Vets" https://open.spotify.com/track/6t3sBdc5SbMlk5AyGvMei2
+null null null
+null "People I've been sad" null
+"Christine and the Queens" "People I've been sad" null
+"Christine and the Queens" "People I've been sad" https://open.spotify.com/track/0KywIrJ4Xir4tS6q61aY1W
+null null null
+null Psycho! null
+MASE Psycho! null
+MASE Psycho! https://open.spotify.com/track/4sSu9BtWSCWRNjGD2AvqbG
+null null null
+null "Roses - Imanbek Remix" null
+"SAINt JHN" "Roses - Imanbek Remix" null
+"SAINt JHN" "Roses - Imanbek Remix" https://open.spotify.com/track/24Yi9hE78yPEbZ4kxyoXAI
+null null null
+null "The Box" null
+"Roddy Ricch" "The Box" null
+"Roddy Ricch" "The Box" https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I
+null null null
+null null null
+null "Track Name" null
+Artist "Track Name" null
+Artist "Track Name" URL
+null null null
+null Vibe null
+"Cookiee Kawaii" Vibe null
+"Cookiee Kawaii" Vibe https://open.spotify.com/track/7btQ8AOjr6zXoGHEmxL5u5
+null null null
+null "Moral of the Story" null
+Ashe "Moral of the Story" null
+Ashe "Moral of the Story" https://open.spotify.com/track/2nC3QhMI9reBIOWutbU3Tj
+null null null
+null "death bed (feat. beabadoobee)" null
+Powfu "death bed (feat. beabadoobee)" null
+Powfu "death bed (feat. beabadoobee)" https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx
+null null null
+null "4 Da Trap" null
+645AR "4 Da Trap" null
+645AR "4 Da Trap" https://open.spotify.com/track/5sF13EvLGv5qHFiMuGnMTF
+null null null
+null "My Truck" null
+Breland "My Truck" null
+Breland "My Truck" https://open.spotify.com/track/1mpD5ioZ9479I6CuKxn3K9
+null null null
+null "Walked In" null
+Ultradiox "Walked In" null
+Ultradiox "Walked In" https://open.spotify.com/track/1tRlGMHsf21FDo6pja27YN
+null null null
+null Skechers null
+DripReport Skechers null
+DripReport Skechers https://open.spotify.com/track/4z2JaAVPemYJhFKm7e32RA
+null null null
+null "S'en aller" null
+Swing "S'en aller" null
+Swing "S'en aller" https://open.spotify.com/track/3ATo60fpicfxwZ0daRatlU
+null null null
+null "WHATS POPPIN" null
+"Jack Harlow" "WHATS POPPIN" null
+"Jack Harlow" "WHATS POPPIN" https://open.spotify.com/track/3Q6F8RByyhRTJpRtZLY3cg
+null null null
+null "My Heart Went Oops" null
+Tiagz "My Heart Went Oops" null
+Tiagz "My Heart Went Oops" https://open.spotify.com/track/3Nhfs2Cx7z2JWHetYkzSfO
+null null null
+null Apollo null
+Smoove'L Apollo null
+Smoove'L Apollo https://open.spotify.com/track/0VPmIETYsw3JBnyh4iDjVv
+null null null
+null Psycho! null
+MASE Psycho! null
+MASE Psycho! https://open.spotify.com/track/4sSu9BtWSCWRNjGD2AvqbG
+null null null
+null "This Is For Rachel For Acting Up" null
+"Visualz By Mariee" "This Is For Rachel For Acting Up" null
+"Visualz By Mariee" "This Is For Rachel For Acting Up" https://open.spotify.com/track/13TWGr9aDyr4AJgt1q6xVn
+null null null
+null "Get the Gat" null
+"Lil Elt" "Get the Gat" null
+"Lil Elt" "Get the Gat" https://open.spotify.com/track/4gxh3vX2vDeiey5cDQvXDR
+null null null
+null Trust null
+"Brent Faiyaz" Trust null
+"Brent Faiyaz" Trust https://open.spotify.com/track/0oufSLnKQDoBFX5mgkDCgR
+null null null
+null "CITY OF ANGELS" null
+24kGoldn "CITY OF ANGELS" null
+24kGoldn "CITY OF ANGELS" https://open.spotify.com/track/6ap9lSRJ0iLriGLqoJ44cq
+null null null
+null "Diva (feat. Lil Tecca)" null
+"The Kid LAROI" "Diva (feat. Lil Tecca)" null
+"The Kid LAROI" "Diva (feat. Lil Tecca)" https://open.spotify.com/track/7gVwgc8b3XnO87TpmXXFA5
+null null null
+null "Sunday Best" null
+Surfaces "Sunday Best" null
+Surfaces "Sunday Best" https://open.spotify.com/track/1Cv1YLb4q0RzL6pybtaMLo
+null null null
+null "Make His Pockets Hurt" null
+"Lil Kayla" "Make His Pockets Hurt" null
+"Lil Kayla" "Make His Pockets Hurt" https://open.spotify.com/track/4MszwagGVhBYTJkXe0KOEp
+null null null
+null BLACKOUT null
+"Lil Kapow" BLACKOUT null
+"Lil Kapow" BLACKOUT https://open.spotify.com/track/29hrQIClzqNqMPO4bVWcjI
+null null null
+null "Boys Ain't Shit" null
+SAYGRACE "Boys Ain't Shit" null
+SAYGRACE "Boys Ain't Shit" https://open.spotify.com/track/6vzLbfskWigBsCzNdB0kfE
+null null null
+null "The Box" null
+"Roddy Ricch" "The Box" null
+"Roddy Ricch" "The Box" https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I
+null null null
+null Springtime null
+"Chris Renzema" Springtime null
+"Chris Renzema" Springtime https://open.spotify.com/track/3u3wIwedK7lT55qBqZ1M1s
+null null null
+null "Breaking Me" null
+Topic "Breaking Me" null
+Topic "Breaking Me" https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po
+null null null
+null "She Gon Go" null
+"Trill Ryan" "She Gon Go" null
+"Trill Ryan" "She Gon Go" https://open.spotify.com/track/7FknBUKLWwjWszRK1N0jqe
+null null null
+null Drugs null
+UPSAHL Drugs null
+UPSAHL Drugs https://open.spotify.com/track/06ioYJ99HHjzRk8HrGfkKS
+null null null
+null "Say So" null
+"Doja Cat" "Say So" null
+"Doja Cat" "Say So" https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ
+null null null
+null "Roses - Imanbek Remix" null
+"SAINt JHN" "Roses - Imanbek Remix" null
+"SAINt JHN" "Roses - Imanbek Remix" https://open.spotify.com/track/24Yi9hE78yPEbZ4kxyoXAI
+null null null
+null Bussin null
+"Tay Money" Bussin null
+"Tay Money" Bussin https://open.spotify.com/track/2OBot5OpoT4deri6VkYCyW
+null null null
+null "Amor Tumbado" null
+"Natanael Cano" "Amor Tumbado" null
+"Natanael Cano" "Amor Tumbado" https://open.spotify.com/track/5aJ1M43pinROpwaPnO8KRj
+null null null
+null "Blinding Lights" null
+"The Weeknd" "Blinding Lights" null
+"The Weeknd" "Blinding Lights" https://open.spotify.com/track/0sf12qNH5qcw8qpgymFOqD
+null null null
+null Dior null
+"Pop Smoke" Dior null
+"Pop Smoke" Dior https://open.spotify.com/track/79s5XnCN4TJKTVMSmOx8Ep
+null null null
+null "Working Bitch" null
+Ashnikko "Working Bitch" null
+Ashnikko "Working Bitch" https://open.spotify.com/track/7g7w2WUpLcqsqH2M9XR7ZF
+null null null
+null "Any song" null
+Zico "Any song" null
+Zico "Any song" https://open.spotify.com/track/1iIhGHzzrzqQfuNkFI2qAn
+null null null
+null GOODMORNINGTOKYO! null
+"TOKYO’S REVENGE" GOODMORNINGTOKYO! null
+"TOKYO’S REVENGE" GOODMORNINGTOKYO! https://open.spotify.com/track/0Q2n5yzl2XRqYbV77tZNYp
+null null null
+null "High Fashion (feat. Mustard)" null
+"Roddy Ricch" "High Fashion (feat. Mustard)" null
+"Roddy Ricch" "High Fashion (feat. Mustard)" https://open.spotify.com/track/07KXEDMj78x68D884wgVEm
+null null null
+null "Dream Girl - Remix" null
+"Ir Sais" "Dream Girl - Remix" null
+"Ir Sais" "Dream Girl - Remix" https://open.spotify.com/track/099tjv6oy2opbpCOA3nBwX
+null null null
+null "P*$$Y Fairy (OTW)" null
+"Jhené Aiko" "P*$$Y Fairy (OTW)" null
+"Jhené Aiko" "P*$$Y Fairy (OTW)" https://open.spotify.com/track/48KXAIruJ07kJVCWOGohMV
+null null null
+null Revenge null
+"Joyner Lucas" Revenge null
+"Joyner Lucas" Revenge https://open.spotify.com/track/43mwjiAXLMqkOv4vtlNweU
+null null null
+null "You Broke My Heart Again" null
+Teqkoi "You Broke My Heart Again" null
+Teqkoi "You Broke My Heart Again" https://open.spotify.com/track/3jZDWsoxRHzzp3DYV8qeXE
+null null null
+null "Fkn Around (feat. Megan Thee Stallion)" null
+"Phony Ppl" "Fkn Around (feat. Megan Thee Stallion)" null
+"Phony Ppl" "Fkn Around (feat. Megan Thee Stallion)" https://open.spotify.com/track/1RRlUJMxjp2FmkTExBT2T7
+null null null
+null "What If I Told You That I Love You" null
+"Ali Gatie" "What If I Told You That I Love You" null
+"Ali Gatie" "What If I Told You That I Love You" https://open.spotify.com/track/3cqPu20DGTGUoZtbJH2Dmi
+null null null
+null Physical null
+"Dua Lipa" Physical null
+"Dua Lipa" Physical https://open.spotify.com/track/5px6upUHM3fhOP621Edp4V
+null null null
+null "Welcome to Wonderland" null
+"Anson Seabra" "Welcome to Wonderland" null
+"Anson Seabra" "Welcome to Wonderland" https://open.spotify.com/track/3JfHYZKy5JmE5Fv4gDTCiz
+null null null
+null Lonely null
+"Joel Corry" Lonely null
+"Joel Corry" Lonely https://open.spotify.com/track/2ZEq4HT450Ye9IFGPTl9qV
+null null null
+null "So Heavy I Fell Through the Earth - Art Mix" null
+Grimes "So Heavy I Fell Through the Earth - Art Mix" null
+Grimes "So Heavy I Fell Through the Earth - Art Mix" https://open.spotify.com/track/2MZPwTL7QpYK42mg8NOSu8
+null null null
+null "Toss A Coin To Your Witcher" null
+"Sonya Belousova" "Toss A Coin To Your Witcher" null
+"Sonya Belousova" "Toss A Coin To Your Witcher" https://open.spotify.com/track/2KMLGJ1mPfRE4GNdL92rl3
+null null null
+null Scum null
+6ix9ine Scum null
+6ix9ine Scum https://open.spotify.com/track/0HtjREOK0qsBrW1FDNUaYl
+null null null
+null "Boss Bitch" null
+"Doja Cat" "Boss Bitch" null
+"Doja Cat" "Boss Bitch" https://open.spotify.com/track/78qd8dvwea0Gosb6Fe6j3k
+null null null
+null "All I Want - From ""High School Musical: The Musical: The Series""" null
+"Olivia Rodrigo" "All I Want - From ""High School Musical: The Musical: The Series""" null
+"Olivia Rodrigo" "All I Want - From ""High School Musical: The Musical: The Series""" https://open.spotify.com/track/4Yxc55NX3tAXC2mHRAhtcW
+null null null
+null "Track Name" null
+Artist "Track Name" null
+Artist "Track Name" URL
+null null null
+null Vibe null
+"Cookiee Kawaii" Vibe null
+"Cookiee Kawaii" Vibe https://open.spotify.com/track/7btQ8AOjr6zXoGHEmxL5u5
+null null null
+null "4 Da Trap" null
+645AR "4 Da Trap" null
+645AR "4 Da Trap" https://open.spotify.com/track/0vE83hbgyJwhLrilUyB6bu
+null null null
+null "death bed (feat. beabadoobee)" null
+Powfu "death bed (feat. beabadoobee)" null
+Powfu "death bed (feat. beabadoobee)" https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx
+null null null
+null "My Truck" null
+Breland "My Truck" null
+Breland "My Truck" https://open.spotify.com/track/1mpD5ioZ9479I6CuKxn3K9
+null null null
+null "Moral of the Story" null
+Ashe "Moral of the Story" null
+Ashe "Moral of the Story" https://open.spotify.com/track/2nC3QhMI9reBIOWutbU3Tj
+null null null
+null "This Is For Rachel For Acting Up" null
+"Visualz By Mariee" "This Is For Rachel For Acting Up" null
+"Visualz By Mariee" "This Is For Rachel For Acting Up" https://open.spotify.com/track/13TWGr9aDyr4AJgt1q6xVn
+null null null
+null "WHATS POPPIN" null
+"Jack Harlow" "WHATS POPPIN" null
+"Jack Harlow" "WHATS POPPIN" https://open.spotify.com/track/3Q6F8RByyhRTJpRtZLY3cg
+null null null
+null Apollo null
+Smoove'L Apollo null
+Smoove'L Apollo https://open.spotify.com/track/0VPmIETYsw3JBnyh4iDjVv
+null null null
+null Psycho! null
+MASE Psycho! null
+MASE Psycho! https://open.spotify.com/track/4sSu9BtWSCWRNjGD2AvqbG
+null null null
+null "Make His Pockets Hurt" null
+"Lil Kayla" "Make His Pockets Hurt" null
+"Lil Kayla" "Make His Pockets Hurt" https://open.spotify.com/track/4MszwagGVhBYTJkXe0KOEp
+null null null
+null "Boys Ain't Shit" null
+SAYGRACE "Boys Ain't Shit" null
+SAYGRACE "Boys Ain't Shit" https://open.spotify.com/track/6vzLbfskWigBsCzNdB0kfE
+null null null
+null BLACKOUT null
+"Lil Kapow" BLACKOUT null
+"Lil Kapow" BLACKOUT https://open.spotify.com/track/29hrQIClzqNqMPO4bVWcjI
+null null null
+null "Toss A Coin To Your Witcher" null
+"Sonya Belousova" "Toss A Coin To Your Witcher" null
+"Sonya Belousova" "Toss A Coin To Your Witcher" https://open.spotify.com/track/2KMLGJ1mPfRE4GNdL92rl3
+null null null
+null "The Box" null
+"Roddy Ricch" "The Box" null
+"Roddy Ricch" "The Box" https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I
+null null null
+null "Until Grace" null
+"Tauren Wells" "Until Grace" null
+"Tauren Wells" "Until Grace" https://open.spotify.com/track/52stVyuGiZ0QOWAAb27ZY4
+null null null
+null Dior null
+"Pop Smoke" Dior null
+"Pop Smoke" Dior https://open.spotify.com/track/79s5XnCN4TJKTVMSmOx8Ep
+null null null
+null "Amor Tumbado" null
+"Natanael Cano" "Amor Tumbado" null
+"Natanael Cano" "Amor Tumbado" https://open.spotify.com/track/5aJ1M43pinROpwaPnO8KRj
+null null null
+null "CITY OF ANGELS" null
+24kGoldn "CITY OF ANGELS" null
+24kGoldn "CITY OF ANGELS" https://open.spotify.com/track/6ap9lSRJ0iLriGLqoJ44cq
+null null null
+null "Breaking Me" null
+Topic "Breaking Me" null
+Topic "Breaking Me" https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po
+null null null
+null Drugs null
+UPSAHL Drugs null
+UPSAHL Drugs https://open.spotify.com/track/06ioYJ99HHjzRk8HrGfkKS
+null null null
+null "Welcome to Chilis" null
+"Yung Gravy" "Welcome to Chilis" null
+"Yung Gravy" "Welcome to Chilis" https://open.spotify.com/track/3PdcxgzpWzAsUGgkmykIFc
+null null null
+null "Sunday Best" null
+Surfaces "Sunday Best" null
+Surfaces "Sunday Best" https://open.spotify.com/track/1Cv1YLb4q0RzL6pybtaMLo
+null null null
+null "Working Bitch" null
+Ashnikko "Working Bitch" null
+Ashnikko "Working Bitch" https://open.spotify.com/track/7g7w2WUpLcqsqH2M9XR7ZF
+null null null
+null "Lost In Yesterday" null
+"Tame Impala" "Lost In Yesterday" null
+"Tame Impala" "Lost In Yesterday" https://open.spotify.com/track/5JWPUEov2wlX7c0jhYZpeB
+null null null
+null "Posthumous Forgiveness" null
+"Tame Impala" "Posthumous Forgiveness" null
+"Tame Impala" "Posthumous Forgiveness" https://open.spotify.com/track/1KcOU0q9AMXV9xi4tSzzCc
+null null null
+null "What If I Told You That I Love You" null
+"Ali Gatie" "What If I Told You That I Love You" null
+"Ali Gatie" "What If I Told You That I Love You" https://open.spotify.com/track/3

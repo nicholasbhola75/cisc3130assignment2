@@ -1,0 +1,4 @@
+C:\\Users\\nickb\\Documents\\viral-us-weekly-latest.csv
+C:\\Users\\nickb\\Documents\\viral-us-weekly-2020-02-27--2020-02-27.csv
+C:\\Users\\nickb\\Documents\\viral-us-weekly-2020-02-20--2020-02-20.csv
+C:\\Users\\nickb\\Documents\\viral-us-weekly-2020-02-13--2020-02-13.csv
